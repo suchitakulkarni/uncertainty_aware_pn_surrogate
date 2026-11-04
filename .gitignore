@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS and tooling
+.DS_Store
+.coverage
+
+# run outputs and logs
+results/coverage
+results/_smoketest
+results/smoke*
+results/run.log
+*.log

@@ -1,0 +1,4 @@
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.120.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.280.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.440.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.600.npz

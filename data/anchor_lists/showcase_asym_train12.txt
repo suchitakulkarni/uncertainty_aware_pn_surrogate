@@ -1,0 +1,12 @@
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.040.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.080.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.160.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.200.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.240.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.320.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.360.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.400.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.480.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.520.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.560.npz
+/home/suchita/ML_projects/portfolio/DevSim/clean_code_2D/data/showcase_asym/diode_1d_asym_L1.802e-04_NA6.00e+17_ND6.00e+16_V0.640.npz

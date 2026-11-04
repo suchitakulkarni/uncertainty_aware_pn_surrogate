@@ -1,5 +1,5 @@
 """Deployment-time check of a query (L, nD, V) against the training envelope and the calibrated range of the
-uncertainty bar, and the bar itself (paper_data/sixseed_v10/mirror/calibration_bar.json, symmetric 1D devices).
+uncertainty bar, and the bar itself (paper_data/uq/calibration_bar.json, symmetric 1D devices).
 
 A query gets a bar only if it passes, in this order:
   1. box: L, nD, V inside the trained box (hard cut, BOX below);
@@ -14,7 +14,7 @@ import numpy as np
 
 BOX = dict(L=(1e-5, 7e-4), nD=(1e15, 1e19), V=(0.04, 0.64))  # L [cm], nD [cm^-3], V [V]: the trained range
 VBI_MAX = 0.8
-# the bar's x uses the constants of the paper's scoring (scripts/paper_figs/pv3.py), V/V_bi the DEVSIM data's V_T
+# the bar's x uses the constants of the paper's scoring (paper_figs/common.py), V/V_bi the DEVSIM data's V_T
 _Q, _K, _T, NI, _EPS = 1.602176634e-19, 1.380649e-23, 300.0, 1.0e10, 11.7 * 8.85e-14
 _VT = _K * _T / _Q
 _VT_DATA = 0.025887193125  # k T/q of the DEVSIM data, the constant of the V/V_bi filter

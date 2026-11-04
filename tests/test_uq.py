@@ -5,7 +5,7 @@ import pytest
 
 from src.uq import load_bar, query_status
 
-BAR = os.path.join(os.path.dirname(__file__), "..", "paper_data", "sixseed_v10", "mirror", "calibration_bar.json")
+BAR = os.path.join(os.path.dirname(__file__), "..", "paper_data", "uq", "calibration_bar.json")
 pytestmark = pytest.mark.skipif(not os.path.exists(BAR), reason="paper_data not present")
 
 
