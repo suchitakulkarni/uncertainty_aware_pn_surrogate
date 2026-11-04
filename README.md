@@ -6,7 +6,8 @@ quasi-Fermi-level (QFL) space and conditioned on the device parameters with FiLM
 The network outputs the electrostatic potential and the two quasi-Fermi levels; every quantity of interest (current, depletion width, peak field,
 stored charge, ...) is read from that state, together with a calibrated 90% error bar for the deployed readouts.
 
-**Illustration of the results:** [`qfl_pe_dh3_unseen_idx31_voltage_sweep_state_iv_epeak_nn_prediction.mp4`](qfl_pe_dh3_unseen_idx31_voltage_sweep_state_iv_epeak_nn_prediction.mp4)
+**Illustration of the results:** 
+![Illustration](https://github.com/suchitakulkarni/DevSim_public/blob/main/results/results_plw_1.000e%2B01_bclw_1.000e-02/potential_sweep.gif)
 shows the network's prediction for an unseen device (idx 31) swept over voltage: state profiles, current-voltage curve and peak field.
 
 ## Status of the release
