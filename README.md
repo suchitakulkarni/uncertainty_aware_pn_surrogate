@@ -7,7 +7,7 @@ The network outputs the electrostatic potential and the two quasi-Fermi levels; 
 stored charge, ...) is read from that state, together with a calibrated 90% error bar for the deployed readouts.
 
 **Illustration of the results:** 
-![Illustration](https://github.com/suchitakulkarni/DevSim_public/blob/main/results/results_plw_1.000e%2B01_bclw_1.000e-02/potential_sweep.gif)
+![Illustration](https://github.com/suchitakulkarni/uncertainty_aware_pn_surrogate/blob/main/qfl_pe_dh3_unseen_idx31_voltage_sweep_state_iv_epeak_nn_prediction.gif)
 shows the network's prediction for an unseen device (idx 31) swept over voltage: state profiles, current-voltage curve and peak field.
 
 ## Status of the release
